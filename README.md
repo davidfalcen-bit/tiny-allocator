@@ -46,7 +46,7 @@ It is intentionally minimal and does not provide the safety, performance, or rob
 Clone the repository and build the project:
 
 ```bash
-git clone https://github.com/your-username/tiny-allocator.git
+git clone https://github.com/davidfalcen-bit/tiny-allocator.git
 cd tiny-allocator
 
 mkdir build
